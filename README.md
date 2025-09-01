@@ -1,9 +1,9 @@
 # Relogio-Wifi-AP
-#Relogio digital com acesso as configurações por server web via Lan ou AP.
+# Relogio digital com acesso as configurações por server web via Lan ou AP.
 
-#Não sei usar direito aqui.
+# Não sei usar direito aqui.
 
-#codigo>>
+# codigo>>
 
 /*
   relogio_test.ino
